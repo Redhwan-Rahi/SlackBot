@@ -6,3 +6,5 @@ SIGNING_SECRET
 
 Install ngrok.exe and run the file
 In the command line, enter: ngrok http 5000(OR WHATEVER PORT YOU ARE RUNNING THE APP ON)
+Take the url and enter it on the Slack API website everywhere a url has previously been
+
